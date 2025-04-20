@@ -17,7 +17,7 @@ A simple Python-based Optical Character Recognition (OCR) tool that extracts tex
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Armanlaliwala/img-to-text-ocr.git
+git clone https://github.com/Armanlaliwala/image-text-extraction-using-ocr
 cd img-to-text-ocr
 ```
 ### 2. Install Requirements
